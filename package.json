@@ -2,7 +2,7 @@
   "name": "tarot-card-img",
   "version": "0.0.1",
   "description": "Rider Waite's Tarot Cards",
-  "main": "index.js",
+  "main": "info.json",
   "repository": "https://github.com/smrsan/tarot.git",
   "author": "Rider Waite",
   "license": "MIT",
