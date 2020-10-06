@@ -1,6 +1,10 @@
 {
   "name": "tarot-card-img",
   "version": "0.0.1",
-  "private": false,
-  "author": "Rider Waite"
+  "description": "Rider Waite's Tarot Cards",
+  "main": "index.js",
+  "repository": "https://github.com/smrsan/tarot.git",
+  "author": "Rider Waite",
+  "license": "MIT",
+  "private": false
 }
