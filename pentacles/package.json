@@ -1,0 +1,9 @@
+{
+  "name": "tarot-card-img-pentacles",
+  "version": "0.0.0",
+  "description": "Rider Waite's Tarot Cards",
+  "main": "info.json",
+  "repository": "https://github.com/smrsan/tarot.git",
+  "author": "Rider Waite",
+  "license": "MIT"
+}
